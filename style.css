@@ -1,0 +1,12 @@
+body{
+  background-color:purple
+}
+p {
+  color:#335BFF
+}
+.destacado{
+  front-family:"Arial";
+  front-style:italic;
+  front-size: 15xp;
+  color:black
+}
